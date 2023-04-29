@@ -65,3 +65,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+<p align="center">
+[![harpreets1602's GitHub | Stats](https://stats.quine.sh/harpreets1602/github?theme=dark)](https://quine.sh)
+</p>
+[![harpreets1602's GitHub | Languages Over Time](https://stats.quine.sh/harpreets1602/languages-over-time?theme=dark)](https://quine.sh)
+
+[![harpreets1602's GitHub | Topics Over Time](https://stats.quine.sh/harpreets1602/topics-over-time?theme=dark)](https://quine.sh)
