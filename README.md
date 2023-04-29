@@ -71,4 +71,5 @@ Here are some ideas to get you started:
     <img src="https://stats.quine.sh/harpreets1602/github?theme=dark" />
     <img src="https://stats.quine.sh/harpreets1602/languages-over-time?theme=dark" />
     <img src = "https://stats.quine.sh/harpreets1602/topics-over-time?theme=dark" />
+    <img src = "https://stats.quine.sh/harpreets1602/web3?theme=dark" />
 </p>
