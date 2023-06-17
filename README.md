@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpreet1602&label=Profile%20views&color=0e75b6&style=flat" alt="harpreet1602" /> </p>
 
-- 🌱 I’m currently working on **MERN** project.
+- 🌱 I’m currently working on **SpringBoot** project.
 
 - 🤝 I’m looking for help with **Machine Learning and Backend Technologies**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate with other web developers on some 😎cool projects
 
-- ⚡ Fun fact **I am a singer, dancer, sportsperson, blogger, youtuber and much more**
+- ⚡ Fun fact **I am a singer, dancer, sportsperson, blogger, youtuber and the list goes on!**
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -61,15 +61,18 @@ Here are some ideas to get you started:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=harpreet1602&show_icons=true&locale=en&theme=tokyonight"/>
 </a>
 <a>
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=harpreet1602&theme=nord" />
+<!--   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=harpreet1602&theme=nord" /> -->
 </a>
 </p>
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+<!-- <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" /> -->
 
 
 <p align="center">
     <img src="https://stats.quine.sh/harpreets1602/github?theme=dark" />
-    <img src="https://stats.quine.sh/harpreets1602/languages-over-time?theme=dark" />
-    <img src = "https://stats.quine.sh/harpreets1602/topics-over-time?theme=dark" />
+<!--     <img src="https://stats.quine.sh/harpreets1602/languages-over-time?theme=dark" />
+    <img src = "https://stats.quine.sh/harpreets1602/topics-over-time?theme=dark" /> -->
+<!--     <img src = "https://stats.quine.sh/harpreets1602/web3?theme=dark" /> -->
+</p>
+<p align="center">
     <img src = "https://stats.quine.sh/harpreets1602/web3?theme=dark" />
 </p>
